@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  width: 500px;
+  height: 400px;
+  background-position: -100px;
+  background-repeat: no-repeat;
+  background-image: url("https://www.smarttasbeeh.com/wp-content/uploads/2019/01/ogimage.png");
+  background-size: cover;
+}
+.screen {
+  width: 200px;
+  height: 90px;
+  position: relative;
+  top: 65px;
+  left: 180px;
+  font-size: 66px;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  background-color: green;
+}
+.res {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 330px;
+  top:-18px;
+  border-radius: 50%;
+  border: none;
+}
+.incr{
+width: 125px;
+height: 125px;
+position: relative;
+border-radius: 50%;
+left: 175px;
+top: 119px;
+background-color: rgb(245, 0, 0);
+}
